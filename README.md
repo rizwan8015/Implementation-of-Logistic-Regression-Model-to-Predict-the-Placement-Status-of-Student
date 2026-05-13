@@ -33,8 +33,8 @@ Use .predict() with a new input list of values to predict placement status for a
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: HARINE S
-RegisterNumber:  212224230081
+Developed by: RIZWAN B
+RegisterNumber:  212224100051
 */
 ```
 ```
